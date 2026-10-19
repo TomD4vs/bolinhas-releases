@@ -19,7 +19,7 @@ Instaladores do **Bolinhas**, app de voz e transmissão de tela para grupos de a
 
 ## Sem instalar
 
-Dá para entrar nas salas pelo navegador, em https://bolinhasapp.com.br, no Chrome, Edge, Brave ou Firefox.
+Dá para entrar nas salas pelo navegador, em https://bolinhas.app, no Chrome, Edge, Brave ou Firefox.
 
 ## Atualizações
 
